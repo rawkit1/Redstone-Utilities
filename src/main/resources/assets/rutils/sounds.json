@@ -1,0 +1,10 @@
+{
+"drill_short": {
+	"category": "master",
+	"sounds": [
+	{
+		"name": "rutils:drill_short","stream":true
+	}
+	]
+}
+}

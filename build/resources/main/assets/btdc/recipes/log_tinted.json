@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "type": "forge:ore_dict",
+            "ore": "logWood"
+        },
+        {
+            "item": "minecraft:flint"
+        }
+    ],
+    "result": {"item": "btdc:log_tinted", "count": 1}
+}

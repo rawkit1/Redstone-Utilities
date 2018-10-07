@@ -1,0 +1,9 @@
+// ITEMS
+item.redstone_multitool.name=Redstone Multitool
+
+// BLOCKS
+tile.entropy_manipulator.name=Entropy Manipulator
+tile.redstone_transmitter.name=Redstone Transmitter
+
+// OTHER
+itemGroup.tab=Redstone Utilities

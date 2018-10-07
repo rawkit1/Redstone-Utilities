@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "rutils:blocks/redstone_charger_none"
+	}
+}

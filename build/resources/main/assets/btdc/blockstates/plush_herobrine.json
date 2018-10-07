@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "normal": { "model": "btdc:plush_herobrine" },
+         "facing=north": {
+            "model": "btdc:plush_herobrine"
+        },
+        "facing=south": {
+            "model": "btdc:plush_herobrine",
+            "y": 180
+        },
+        "facing=east": {
+            "model": "btdc:plush_herobrine",
+            "y": 90
+        },
+        "facing=west": {
+            "model": "btdc:plush_herobrine",
+            "y": 270
+        },
+		"inventory": {
+		"model": "btdc:plush_herobrine"
+		}
+    }
+}

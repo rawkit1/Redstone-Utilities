@@ -1,0 +1,126 @@
+Symbol range map extraction starting
+Processing 31 files
+startProcessing "com\enwash\deco\Main.java" md5: 9b403674a2d60f0d403978a64b197bf1
+Cache Hit!
+endProcessing "com\enwash\deco\Main.java"
+
+startProcessing "com\enwash\deco\blocks\BDTorch.java" md5: dfba90bff7ed31cd827efbd6014ab7e4
+Cache Hit!
+endProcessing "com\enwash\deco\blocks\BDTorch.java"
+
+startProcessing "com\enwash\deco\blocks\BlockBase.java" md5: d0ed203d4f09f328c8269aed2f5a0271
+Cache Hit!
+endProcessing "com\enwash\deco\blocks\BlockBase.java"
+
+startProcessing "com\enwash\deco\blocks\Bust.java" md5: 3444dec53dc1618a938cfdb9e70ab70b
+Cache Hit!
+endProcessing "com\enwash\deco\blocks\Bust.java"
+
+startProcessing "com\enwash\deco\blocks\Candelabra.java" md5: 72a2eb8a193db4660ce92655a9d3e5b8
+Cache Hit!
+endProcessing "com\enwash\deco\blocks\Candelabra.java"
+
+startProcessing "com\enwash\deco\blocks\CarpentryStation.java" md5: 9b7f73063029c7df1dd7f16701058a4e
+Cache Hit!
+endProcessing "com\enwash\deco\blocks\CarpentryStation.java"
+
+startProcessing "com\enwash\deco\blocks\Chandelier.java" md5: 990bcb0bf5004d722b950b2afc249a1a
+Cache Hit!
+endProcessing "com\enwash\deco\blocks\Chandelier.java"
+
+startProcessing "com\enwash\deco\blocks\CoffeeTable.java" md5: 12f6dbf47bd10db1b85ec9dada7aef4a
+Cache Hit!
+endProcessing "com\enwash\deco\blocks\CoffeeTable.java"
+
+startProcessing "com\enwash\deco\blocks\Fountain.java" md5: ae340d2ce613f9b4e39fa5aa194ab3f6
+Cache Hit!
+endProcessing "com\enwash\deco\blocks\Fountain.java"
+
+startProcessing "com\enwash\deco\blocks\LogDeer.java" md5: 7747484c5a70f302dec673a82ad3f900
+Cache Hit!
+endProcessing "com\enwash\deco\blocks\LogDeer.java"
+
+startProcessing "com\enwash\deco\blocks\LogTinted.java" md5: ff16b918c5c24b611f031483d0394d37
+Cache Hit!
+endProcessing "com\enwash\deco\blocks\LogTinted.java"
+
+startProcessing "com\enwash\deco\blocks\Mailbox.java" md5: a93769c3b7db110fbd2e86a5c04734fc
+Cache Hit!
+endProcessing "com\enwash\deco\blocks\Mailbox.java"
+
+startProcessing "com\enwash\deco\blocks\Plush.java" md5: 11fa9f4366c30fcad2c9a2a0ef87291b
+Cache Hit!
+endProcessing "com\enwash\deco\blocks\Plush.java"
+
+startProcessing "com\enwash\deco\blocks\TorchTall.java" md5: 5f36bb1bc3ce92783db2e41b36688347
+Cache Hit!
+endProcessing "com\enwash\deco\blocks\TorchTall.java"
+
+startProcessing "com\enwash\deco\blocks\Trophy.java" md5: c7f08801fa0915269356f2a69a047500
+Cache Hit!
+endProcessing "com\enwash\deco\blocks\Trophy.java"
+
+startProcessing "com\enwash\deco\blocks\container\ContainerMailbox.java" md5: 9f4f452f9cd42dc1654a2a2135ddca6e
+Cache Hit!
+endProcessing "com\enwash\deco\blocks\container\ContainerMailbox.java"
+
+startProcessing "com\enwash\deco\init\BTDCBlocks.java" md5: bce8a266698edba654842c533a60f9ae
+Cache Hit!
+endProcessing "com\enwash\deco\init\BTDCBlocks.java"
+
+startProcessing "com\enwash\deco\init\BTDCItems.java" md5: 4c7818d2ed795b5a32e45cbe67ceb454
+Cache Hit!
+endProcessing "com\enwash\deco\init\BTDCItems.java"
+
+startProcessing "com\enwash\deco\init\BTDCOreDict.java" md5: 5c6f7e2f9d3fd2aa62967c15f4dee1de
+Cache Hit!
+endProcessing "com\enwash\deco\init\BTDCOreDict.java"
+
+startProcessing "com\enwash\deco\items\CraftTool.java" md5: 2768dc90f8a22b4af6fc7f1b070cc43f
+Cache Hit!
+endProcessing "com\enwash\deco\items\CraftTool.java"
+
+startProcessing "com\enwash\deco\items\ItemBase.java" md5: be659aae4df8b3ef9d270537374fb3e7
+Cache Hit!
+endProcessing "com\enwash\deco\items\ItemBase.java"
+
+startProcessing "com\enwash\deco\proxy\ClientProxy.java" md5: de65f3305208c6282e6fb70736b135e0
+Cache Hit!
+endProcessing "com\enwash\deco\proxy\ClientProxy.java"
+
+startProcessing "com\enwash\deco\proxy\CommonProxy.java" md5: 5af28ee76519bbe3b5fd86b2f3078cd2
+Cache Hit!
+endProcessing "com\enwash\deco\proxy\CommonProxy.java"
+
+startProcessing "com\enwash\deco\tabs\Busts.java" md5: 594794352eaa1f3893abb18025b88ad3
+Cache Hit!
+endProcessing "com\enwash\deco\tabs\Busts.java"
+
+startProcessing "com\enwash\deco\tabs\Furniture.java" md5: 1e32afde8b864be6b5ad0dd166446400
+Cache Hit!
+endProcessing "com\enwash\deco\tabs\Furniture.java"
+
+startProcessing "com\enwash\deco\tabs\Lighting.java" md5: 010aadb342dc5dde1119cf63aea2e9cf
+Cache Hit!
+endProcessing "com\enwash\deco\tabs\Lighting.java"
+
+startProcessing "com\enwash\deco\tabs\Resources.java" md5: 2c38d1e0ccd85d33a65071a1a4450dec
+Cache Hit!
+endProcessing "com\enwash\deco\tabs\Resources.java"
+
+startProcessing "com\enwash\deco\util\ICanHazModel.java" md5: 0f96dec1a703409478450a82310cbc42
+Cache Hit!
+endProcessing "com\enwash\deco\util\ICanHazModel.java"
+
+startProcessing "com\enwash\deco\util\Reference.java" md5: 18ff81687e687114de73067178d09ee4
+Cache Hit!
+endProcessing "com\enwash\deco\util\Reference.java"
+
+startProcessing "com\enwash\deco\util\handlers\GuiHandler.java" md5: fe482ed99084d980cd4330803623cd65
+Cache Hit!
+endProcessing "com\enwash\deco\util\handlers\GuiHandler.java"
+
+startProcessing "com\enwash\deco\util\handlers\RegistryHandler.java" md5: 7cd8d1f03e037d192b37154e756db994
+Cache Hit!
+endProcessing "com\enwash\deco\util\handlers\RegistryHandler.java"
+

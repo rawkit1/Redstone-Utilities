@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CCC",
+        " WC",
+        "CCC"
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:stick"
+        },
+		"W": {
+            "item": "minecraft:grass"
+        }
+    },
+    "result": {
+        "item": "btdc:globe"
+    }
+}

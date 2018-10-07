@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"normal": { "model": "rutils:entropy_manipulator" },
+		"powered=true": { "model": "rutils:entropy_manipulator" },
+		"powered=false": { "model": "rutils:entropy_manipulator" }
+	}
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "TTT",
+        " N ",
+        " N "
+    ],
+    "key": {
+        "T": {
+            "item": "minecraft:torch"
+        },
+        "N": {
+            "item": "minecraft:cobblestone"
+        }
+    },
+    "result": {
+        "item": "btdc:candelabra"
+    }
+}
